@@ -24,7 +24,7 @@
 }
 
 .fill {
-	background-color: var(--color);
+	background-color: rgb(0, 0, 0);
 	z-index:2;
     position: absolute;
 	overflow: hidden;
